@@ -9,11 +9,11 @@
 4. 编程环境：Visual studio code
 ## 示例
 ### 输入被拟合曲线
-![image](https://github.com/hachikuji894/resource-repository/blob/main/images/Snipaste_2021-07-14_22-44-29.png)
+![Snipaste_2021-07-14_22-44-29.png](https://s2.loli.net/2022/09/13/BwDnZpvo7k2JEjh.png)
 ### 拟合并执行仿真动画
-![image](https://github.com/hachikuji894/resource-repository/blob/main/images/Snipaste_2021-07-14_22-45-14.png)
+![Snipaste_2021-07-14_22-45-14.png](https://s2.loli.net/2022/09/13/Ba4rCDGm1wuIxTg.png)
 ### 生成 Gcode 指令
-![image](https://github.com/hachikuji894/resource-repository/blob/main/images/Snipaste_2021-07-14_22-45-34.png)
+![Snipaste_2021-07-14_22-45-34.png](https://s2.loli.net/2022/09/13/9p1AHRyudONv8jk.png)
 ## 本地运行
 1. 克隆项目到本地，使用 vs code 打开该项目
 2. 到文件根目录下运行终端，输入
